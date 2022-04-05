@@ -1,6 +1,6 @@
 # Asked_in_interviews-2
 
-*Here are Some recent questions asked in interviews of companies like Google, TCS, Amazon etc.*
+*Here are Some recent questions asked in interviews of companies like Google, TCS, Amazon, Wipro etc.*
 
 ## Getting Started
 

@@ -5,4 +5,6 @@
 For example, consider the following binary tree. The required difference is:
 
 (1 + 4 + 5 + 6) - (2 + 3 + 7 + 8) = -4
+
+
 ![](https://www.techiedelight.com/wp-content/uploads/Difference-between-sum-of-nodes.png)

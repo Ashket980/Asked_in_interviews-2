@@ -1,4 +1,4 @@
-##Find preorder traversal of a binary tree from its inorder and postorder sequence
+## Find preorder traversal of a binary tree from its inorder and postorder sequence
  
 
 **Write an efficient algorithm to find a binary tree's preorder traversal from it's 

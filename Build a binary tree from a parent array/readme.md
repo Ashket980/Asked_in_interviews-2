@@ -22,3 +22,6 @@ It may be assumed that the input provided to the program is valid.**
     
     4 is present at index 6 and 7, which implies that the left and right children of node 4 are 6 and 7.
     
+The corresponding binary tree is:
+
+![](https://www.techiedelight.com/wp-content/uploads/Build-Binary-Tree-from-Parent-Array.png)

@@ -5,8 +5,9 @@ not without building the tree. Assume that the keys are inserted into the BST in
 
 **For example, consider the following arrays:**
 
-**X[] = { 15, 25, 20, 22, 30, 18, 10, 8, 9, 12, 6 }
-Y[] = { 15, 10, 12, 8, 25, 30, 6, 20, 18, 9, 22 }**
+**X[] = { 15, 25, 20, 22, 30, 18, 10, 8, 9, 12, 6 }**
+
+**Y[] = { 15, 10, 12, 8, 25, 30, 6, 20, 18, 9, 22 }**
 
  
 Both arrays represent the same BSTs, as shown below:
